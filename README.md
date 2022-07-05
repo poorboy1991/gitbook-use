@@ -6,7 +6,12 @@
 ## 运行
 * 安装 GitBook
 ```bash
-npm install gitbook-cli -g
+
+
+
+
+
+
 ```
 * Clone 代码到本地并运行
 ```bash
